@@ -1,2 +1,2 @@
-:HL["/halfoff-ai-website-christine/_next/static/chunks/37ozl6fsm36g4.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"slug","param":{"type":"d","key":"clean-room","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"LU6l9UdfcwYkMLqLdG5G2"}
+:HL["/halfoff-ai-website-christine/_next/static/chunks/3xae4loxeuwpe.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"slug","param":{"type":"d","key":"clean-room","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"UWl_JnJrONqP_RqeXuS3L"}
