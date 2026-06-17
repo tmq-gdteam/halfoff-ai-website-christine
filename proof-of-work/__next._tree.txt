@@ -1,6 +1,6 @@
-:HL["/halfoff-ai-website-christine/_next/static/chunks/1rj83t-h4v5rx.css","style"]
+:HL["/halfoff-ai-website-christine/_next/static/chunks/0a4bhyqekc19y.css","style"]
 :HL["/halfoff-ai-website-christine/op-ai.png","image"]
 :HL["/halfoff-ai-website-christine/polished-cx.png","image"]
 :HL["/halfoff-ai-website-christine/cccx-ai.svg","image"]
 :HL["/halfoff-ai-website-christine/freeaichat-bot.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"proof-of-work","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"vbpWwVXjeghGDTmkIbP7W"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"proof-of-work","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"YrehiANR_sSCC2xyaK1Dq"}
