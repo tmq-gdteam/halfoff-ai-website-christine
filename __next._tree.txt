@@ -3,4 +3,4 @@
 :HL["/halfoff-ai-website-christine/polished-cx.png","image"]
 :HL["/halfoff-ai-website-christine/cccx-ai.svg","image"]
 :HL["/halfoff-ai-website-christine/freeaichat-bot.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"L058eZhquRwfCqyPl2eUJ"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"hCBX9FVxk3e_eMEEoJ3DT"}
