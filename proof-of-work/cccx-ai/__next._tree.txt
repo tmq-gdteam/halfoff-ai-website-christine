@@ -1,3 +1,3 @@
 :HL["/halfoff-ai-website-christine/_next/static/chunks/1o5u73kqa5pye.css","style"]
 :HL["/halfoff-ai-website-christine/cccx-ai.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"proof-of-work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"cccx-ai","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"pKRcuR_YqvTTEIyTOgPcA"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"proof-of-work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"cccx-ai","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"7ZWS8Nc17buMZfigTLHMn"}
